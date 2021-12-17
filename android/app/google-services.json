@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069514697121",
+    "project_id": "apvejar-56772",
+    "storage_bucket": "apvejar-56772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069514697121:android:786b3c440516b87cd4c3e0",
+        "android_client_info": {
+          "package_name": "com.example.register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069514697121-thfcfnb6nds7n7dstopu919dmlj1kaom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmmU02GtPcZLeFhy41ml1ZkHj6wBQAKW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069514697121-thfcfnb6nds7n7dstopu919dmlj1kaom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
